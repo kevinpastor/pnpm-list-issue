@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "lib": "workspace:^",
+    "lodash": "4.17.21"
+  }
+}
